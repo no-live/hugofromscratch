@@ -48,6 +48,11 @@ URL = "contact"
 name = "Contact"
 weight = 4
 
+[[menu.main]]
+URL = "events"
+name = "Events"
+weight = 5
+
 
 # default parameters
 [params]
